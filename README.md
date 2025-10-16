@@ -1,6 +1,5 @@
 # 🛡️ Mijhar - أداة تحليل البرامج الضارة المتقدمة
 
-![Mijhar Logo](https://raw.githubusercontent.com/kush-king249/Mijhar/main/docs/mijhar_logo.png) <!-- Placeholder for logo -->
 
 ## 📝 الوصف العام للمشروع
 
